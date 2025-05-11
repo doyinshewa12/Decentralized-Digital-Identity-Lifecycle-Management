@@ -7,3 +7,5 @@ J
 contracts/audit-trail.clar,b/6/b6671a06cd13e1dc7096347f063b75b96e221363
 T
 $contracts/credential-revocation.clar,0/5/05a3312a2ed499dc293ad0d3229f702e156551c4
+P
+ contracts/identity-provider.clar,7/4/748f7cc11c4a077faaa05d43dfb84e314c0de785
